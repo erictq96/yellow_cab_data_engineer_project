@@ -2,10 +2,13 @@
 ## Introduction
 Using Python Pandas, BigQuery, and Looker Studio to build an ETL pipeline, store processed data tables to cloud server, and create a dashboard for further analyses.
 ## Architecture Diagram
-<img src="architech diagram updated.png">
+<img src="architech_diagram.png">
 
 ## Data Model
 <img src="data_model.png">
+
+## Dashboard
+<img src="dashboard.png">
 
 ## Technology Used
 * Jupiter Notebook
