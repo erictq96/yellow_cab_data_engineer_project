@@ -9,6 +9,7 @@ Using Python Pandas, BigQuery, and Looker Studio to build an ETL pipeline, store
 
 ## Dashboard
 <img src="dashboard.png">
+Looker Studio Dashboard: https://lookerstudio.google.com/reporting/f9650dad-72dc-44f7-bca8-477a9de7802d
 
 ## Technology Used
 * Jupyter Notebook
